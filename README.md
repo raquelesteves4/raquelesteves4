@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raquelesteves4
 - 👀 I’m interested in audio, music, arts
 - 🌱 I’m currently learning electrotechnical engeneering 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on sound related projects
 - 📫 How to reach me: raquelesteves4401@gmail.com
 
 <!---
